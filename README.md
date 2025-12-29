@@ -3,7 +3,6 @@
 EEE student and Game Dev
 
 ### 📊 My Programming Language Stats (Across All Repos)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cem82"/>
-</p>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
 
